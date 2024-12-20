@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hello! I am a successful Marie Skłodowska-Curie Actions (MSCA) Postdoctoral
-Fellowships (PF) grantees (UKRI Guarantee Funding) at the Department of Engineering at the University of Cambridge.
+Fellowships (PF) grantee (UKRI Guarantee Funding) at the Department of Engineering at the University of Cambridge.
 
 I am privileged to work with Prof. Ioannis Lestas on topics centered around power system stability and control with renewable energy.
 
