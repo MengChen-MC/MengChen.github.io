@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Meng Chen/Home Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Meng Chen"
+  name             : "Meng Chen(陈萌)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc (Marie Skłodowska-Curie Actions Postdoctoral Fellowship (UKRI Guarantee Funding))"
   location         : "Cambridge, United Kingdom"
