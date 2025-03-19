@@ -12,7 +12,7 @@ title                    : "Meng Chen/Home Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://mengchen-mc.github.io
+url                      : https://mengchen-mc.github.io #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MengChen-MC/MengChen.github.io/"
 
